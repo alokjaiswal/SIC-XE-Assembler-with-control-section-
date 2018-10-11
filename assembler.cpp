@@ -1,4 +1,4 @@
-// SIC/XE Assembler with control section by Alok .S. Jaiswal(16CSE1034) and Sheetal(16CSE1033)
+// SIC/XE Assembler with control section by Alok .S. Jaiswal
 #include<iostream>
 #include<stdio.h>
 #include<map>
